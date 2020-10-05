@@ -1,7 +1,7 @@
 .idea/
 
 # cough data
-Preprocess_AudioData/wavData
+4_Preprocess_Audio_Data/wavData
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
